@@ -71,6 +71,14 @@ Menggunakan `class_weight='balanced'` untuk menangani imbalance 71%/29%.
 
 ## 🚀 Cara Menjalankan
 
+## 📥 Data
+
+Dataset tidak disertakan di repo ini karena ukuran dan ketentuan Kaggle.
+Download langsung dari halaman kompetisi:
+
+👉 [Kaggle — Playground Series S6E8](https://www.kaggle.com/competitions/playground-series-s6e8/data)
+
+Letakkan `train.csv`, `test.csv`, dan `sample_submission.csv` di folder yang sama dengan script.
 ```bash
 pip install scikit-learn pandas numpy
 
